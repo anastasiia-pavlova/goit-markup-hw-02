@@ -219,6 +219,7 @@ body{
 /* Портфолио */
 
 .portfolio-item{
+    color: var(--main-text-color);
     font-weight: 700;
     font-size: 18px;
     line-height: 2;
